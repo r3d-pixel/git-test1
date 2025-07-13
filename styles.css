@@ -1,0 +1,15 @@
+h1, .numbers {
+    color:brown;
+    background-color: bisque;
+}
+
+.main {
+    color:blue;
+    background-color: red;
+}
+
+#specific {
+    color:blueviolet;
+    background-color: aquamarine;
+}
+
