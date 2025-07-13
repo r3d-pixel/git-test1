@@ -3,3 +3,5 @@ Edited on github - not pulled
 Edited on local 
 
 Edited to test git fetch
+
+Successfully merged 
