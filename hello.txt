@@ -1,1 +1,17 @@
+Merged branch1 into main
+
+Code from Branch1:
+
+Edited on github - not pulled
+
+Edited on local 
+
+Edited to test git fetch
+
+Successfully merged 
+
+Code from main
+
 This is main
+
+//I removed the conflict markers - conflict from "This is main" and "Edited on github - not pulled" being on line 1 I think
