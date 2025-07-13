@@ -1,3 +1,3 @@
 # git-test1
 
-MAIN
+This is used for testing
